@@ -1,0 +1,241 @@
+God you're still good to me - Music, when my ground undeneath is shaking like a leaf.
+
+ - Cloud computing for geospatial processing
+    - Machine learning and Computer vision and their integration with satellite image segmentation to support the open buildings project and climate change analysis
+    - VPS and Google maps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And I can hear you. Hey. 
+Thank you so much for booking time to speak about this role we have in our research team in Accra. I wanted to tell you a bit more about the role today and also take this time to better understand your background and your interests. Thank you so much for answering my questions before the call, because they give me a bit more information about yourself. And also, of course, tell you about the hiring process, and we can go from there if, for some reason, you receive some email about like a rejection notice or for the role, or anything like that. 
+It was just an error, so just discard it. 
+So to give you more context, we have within our research group, we have a specific team which uses AI ml research to solve for the most challenging issues which Africa is facing.
+ They are mainly based in Accra, but we also have an office in Nairobi, and they tackle multiple research directions, which include flood and flood and drought forecasting, earthquake forecasting, tackling food security issues in Africa, using imagery to understand the evolution of communities in Africa and Help the authorities.
+ So yeah, did different, different things. And we're looking for a senior software engineer to join the team and help them out with mostly the back end engineering work, the build the system on top of which these this research or like proofs of concepts would work. And we're looking for someone who has we're looking like for for a generalist. We are not necessarily looking for a knowledge of machine learning or any AI research. It's just like a general software engineering role in Google. But as it is focused on a research team, obviously, you will get the chance to work very closely with the state of the art AI and the mail technologies, and also you contribute if you have any ideas in the research work that the team is actually doing, if you want to, like on The on the side, the role is mainly focused on engineering contributions. So, yeah, that's, that's pretty much the idea about it. And I wonder if you have any any questions about it. Okay, I'm particularly interested in it all the domains you mentioned. I hope you can hear me. Yes, I can hear you really well, awesome. So I have a background in geospatial engineering and software engineering, and most of what you mentioned, the flood analysis, and most of them have has they have to do. They have to do with remote sensing. Yeah, yeah. And I specialize in remote sensing as well. I exploit satellite images for some special analysis. So this is something I'm definitely interested in. And aside from that, I'm also a back end engineer. I'm a full stack software engineer, actually. So yeah, that's nice. Yeah, that's what I noticed that in your CV. And I thought, hey, it's really relevant for what the team is doing. So that's why I decided to reach out to you. So I'll do my best to explain the hiring process. My goal is to make sure, you know, I tell you what to expect, and you know I do what I can't, set you up for success, and then the hiring process is flexible. Well, the interviewing, doing the interviews, is flexible. We can schedule these in your own availability. So the first step is to do a general coding interview in Python, which is focused on algorithms and data structures. After that, I'll give you feedback in two or three business days. If the feedback is positive, then we will move on to the last stage, which has four interviews, three coding and one non technical interview. Then I collect the initial feedbacks. If they seem positive, I'll check in with the hiring manager. At that point, we might have multiple candidates who are interviewing, and we will have to build a short list. If the hiring manager is open, also schedule an informal chat. And ultimately, if we decide to move forward with your application, it, we will be we will review it. Sorry. I will send it to a hiring committee, which will make a unanimous rejected decision about your application. They will look at all of the this, and if they say yes, we will make you an offer. That's that's the whole flow, and most of this, I think you should take about a month or so to go through the process. We, I think, are hoping to wrap it up maybe by the end of October, or something like like that. But in general, you know, the your interviewing timeline is, is flexible. So, yeah, in terms of this code interview, which you will do, we will share with you, in advance, a link to a video call like this, and also a link to an internal code editor which which we use for interviewing purposes. It's just a plain code editor with no compiler, no autocomplete, just syntax highlighting. In the actual interview, you will get one, typically two coding problems to solve, and your goal is to identify and describe a solution which has an efficient runtime, implemented in Python, and then potentially discuss follow up questions or optimizations. And as these problems are open ended, and they're also slightly under specified by design, because we want to see how we engage with them. So what we want to ideally see is that you describe, describe and implement a solution which has, like, a faster runtime, something which is like, faster than the brute force approach, usually, and also it can be discussed and implemented in the interview. You don't have to, like, define the world's best solution. And as you do all of this, we assess three things. One is your practical knowledge of algorithms and data structures, specifically those ones I was asking about in my email, and it's good to know that you're familiar with all of them. Highly advise you to do a bunch of coding challenges and make sure that you're warmed up on the on the conversation, and then the actual interview. Make sure that you describe how the algorithm works, and then you say what the runtime is in big O notation, and the interview will always like, have clarifying questions and such. It's not unusual. When you implement the solution in Python, we will assess your knowledge of the fundamental features of the language, common library, functions, variables, constructed, idioms. We focus on the overall design and readability. So make sure you write code which solves a problem with chess for errors and boundary conditions and the styling is consistent, rather than stressing about making the syntax 100% compilable. But then there are some other issues. You can totally write code and then ask the interviewer to let you review the code before they do. It's totally fine. And another advice I have for you is to suggest test cases for your solution. Just explain how you attest you don't need to write anything, and that's because the third thing we assess is your communication and problem solving ability. We look at how you go from the problem to the solution. So just try to lead the conversation as much as you can in the interview, and take your time to understand the problem and its requirements. Look for corner edge cases before you start to think about the solution, because you might, you know, be a bit more efficient with your approach. Explain your rationale. You don't need to, like, go into a huge amount of details, but explain, you know, if you see multiple paths, why would you choose a specific one if you're working under some assumptions or making any trade offs stuff like stuff like that, and then you should be should be fine. That's kind of it. And I can send you an interviewing guide today which could taste most of most of this information I mentioned, and then in order to schedule the interview, I can send you also a date picker where you can pick any dates in the following weeks, and then colleague will follow up with a date and time, but yeah, tell me if you want me to clarify anything. Okay, I feel like you, you know all the questions I wanted to ask you engineer yourself. No, I'm not. No, I'm not. I write SQL. So like, I guess not. You know, completely new to this, but yeah, like, I know, I've been hiring people here for many years, and I typically know what people want to know about, and I want to make sure I you know kind of answer most of questions. Yeah, you're pretty knowledgeable about these stuff, these algorithms and data structures. I don't, I don't, I don't know. I basically asked an interviewer, hey, what? What are the most common ones? And I read interview feedback, and I kind of see what, you know, like I can read for the feedback and figure it out, by the way, for example, you know, like that the Shakespeare's algorithm is something which I've seen sometimes in the in the interviews. Even like graphs, because you mentioned about graphs, they also come up a lot like breadth first search depth for search stuff like that. Yeah, that's what I can. That's what I know. So, yeah, just make sure that you give yourself the time to be prepared. And we can, we can go from there. Just make sure you control it. Yeah, and Yeah. Anything else you Is there nothing else you want to ask me about? I think I'm good. Think I'm good. Okay, okay, well, happy that I managed to proactively answer your questions. Dennis, yeah, so I'll send you an email with a bunch of info you don't have to, like, know, all of that stuff there. It's just a collection of different resources. Use whatever you feel you you want to, want to do. Most people I speak with, they go on sites like GitHub and they practice, like, medium to high difficulty questions there. That's, what they tell me. So that's another thing I just remembered. But yeah, I'll then, you know, follow up a few days after the interview with feedback and go from there. And thanks so much for for chatting with me today. Then I will share more information as we go through the through the process of best of luck in the interview. Thank you, Adrian, it's been a pleasure speaking with You. Likewise, you take it easy. Bye Bye Bye
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google pre-screen
+- Myself **
+- Background & Skills
+- Interest in the role
+- Technical experience
+- Tools and Frameworks
+- System Design
+- FMC overview
+
+Tips
+- Speak clearly
+- Be prepared
+- Take seriously
+- Don't stress too much about it
+- Postpone interview if you have to
+- The people that I recommend be interviewed face to face tend to be the ones who can clearly explain their thinking to me. I don’t make a secret of this. The very first thing I say to the candidate is, “The most important part of this discussion is that you tell me what you’re thinking and why.” Not one person in twenty does this
+
+* Thinking out-loud. I.e. ability to explain clearly what you are thinking right now;
+
+* Software design;
+
+* Deep understanding of OS and hardware;
+
+* Soft-skills: leadership/stress resilience/responsibility etc etc
+
+
+It's not enough to go though the book or Glassdoor or Geeksforgeeks and memorize typical interview problems. If you can't solve problems I described above, memorization won't help you. You have to learn how to solve problems by yourself without knowing answer in advance.
+
+
+I’ve always admired how Google consistently pushes the boundaries of technology to solve real-world problems and I’d love to contribute to Google’s efforts in making technology more accessible and impactful for users worldwide.
+
+
+
+What are the 5 A's of stress management?
+Learn the “5 A's” to better manage stress, which includes avoiding, altering, adapting, accepting, and being active.
+the process of adapting well in the face of adversity, trauma, tragedy, threats, or significant sources of stress...
+
+
+
+Avoid: Identify unnecessary stressors in your life and find ways to eliminate them. For example, avoid people or situations that constantly bring negativity, or learn to say "no" to additional responsibilities that overwhelm you.
+
+Alter: Change the way you deal with situations or people that cause stress. This could mean communicating your needs more clearly or finding compromises to reduce the tension in your environment.
+
+Adapt: Adjust your mindset and expectations when dealing with stressful situations. By shifting how you view problems (e.g., seeing them as challenges rather than threats), you can reduce their emotional impact on you.
+
+Accept: Some stressors are out of your control. Learning to accept what you cannot change, such as the actions of others or certain life events, helps you let go of unnecessary stress. This might involve practicing forgiveness or finding meaning in difficult situations.
+
+Be Active: Physical activity is a powerful stress reliever. Exercise can help improve your mood and energy levels, making it easier to cope with life's stressors.
+
+Todos:
+* system design, concurrency, or backend services.
+* Questions for them: Have some questions ready about the role, the team, or Google's work environment to show you're genuinely interested.
+* Share examples that show your teamwork and creativity.
+* Motivation and interests: They'll likely ask why you're interested in working at Google, what motivates you in software engineering, and how your goals align with the role.
+* , and what kinds of projects you've worked on. Be ready to explain your work in a concise, easy-to-understand way.
+
+- Interest in working at Google 
+    - Contributing to the advancements and innovations at Google
+    - Environment where I can grow professionally (stepping stone for me in my career)
+
+- To be able to put a smile on someone's face by building a product that solves someone's problem.
+
+FMC 
+    - Geospatial data engineering: cleaning, processing and analysis (2d spatial graph modeling)
+    - TMS 
+    - Frontend
+    - Server side (Backend & Database) 
+
+
+Motivation
+
+- Background & Skills
+
+
+- Interest in the role
+    - Cloud computing for geospatial processing
+    - Machine learning and Computer vision and their integration with satellite image segmentation to support the open buildings project and climate change analysis
+    - VPS and Google maps
+
+
+- Technical experience
+    - Backend Engineer @ HopStair
+        - Dev't and maintenance of backend sys.
+        - Migrated entire backend from firebase to custom backend.
+        - collaborated with fE and AI team to integrate s-s logic with user-faced logic thru docs	
+        - set up an automated system that schedules and sends notification to users. 
+            integrates with onesignal
+        - Bridged the gap btn the non-technical (content creators) team and tech team
+
+    - Software Engineer II @ DeepMetrics Inc.
+        - Built application's frontend
+        - Developed visualization tools for vehicle detection and tracking   
+
+    - Intern @ Geospatial Innovation lab, KNUST
+        - Studied pathfinding and other spatial data structures and algorithms
+
+    - Find My classroom
+        - Modeled campus as a 2d spatial graph such that the graph is aware of locations
+        - To help stds, staff, visitors find their easily around campus.
+        - Intended to fill in some gaps in google maps and other solutions
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUESTIONS
+What are the key responsibilities for a Software Engineer II at Google?
+
+How would you describe Google's culture, especially within the engineering teams?
+   
+Say that I proceed with the next steps, what is the next step in the hiring process after this conversation and how long until then?
+
+Can you share what the interview process will look like and what I should focus on to best prepare?
+
+
+
+- Tools and Frameworks
+Python - high level dynamic and declarative programming language.
+    
+    - OpenCV
+    - gdal
+    - Rasterio
+    - Shapely
+    - geopandas
+    - matplotlib
+
+
+Go - statically typed high level procedural programming language (imperative). 
+    - Garbage collector
+    - CSP concurrency style - utilizes lightweight threads called goroutines
+
+
+Gin - Fast web framework for Go. Supports http routing. 
+
+sqlC - compiles raw sql code to typesafe Go code.
+
+golang-migrate - for running migration scripts.
+
+docker - for containerization and smooth deployment.
+
+go-mock - for testing, generates stubs from go code (fake db) for independent and fast testing
+
+Typescript - js extension that adds static type checking and additional types.
+
+javaScript - dynamic high level programming language. De facto language of the web
+
+Node js - js runtime so that you can run js outside of the browser.
+
+React - js library for building single page web sites. Often used in together with other react/js  libraries.
+
+
+PostgreSQL - Relational DBMS
+
+PostGIS - Spatial extension of Postgres.
+
+
+
+

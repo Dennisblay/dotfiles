@@ -1,0 +1,113 @@
+" .ideavimrc is a configuration file for IdeaVim plugin. It uses
+"   the same commands as the original .vimrc configuration.
+" You can find a list of commands here: https://jb.gg/h38q75
+" Find more examples here: https://jb.gg/share-ideavimrc
+
+" Source your .vimrc
+source ~/.vimrc
+
+"" -- Suggested options --
+" Show a few lines of context around the cursor. Note that this makes the
+" text scroll if you mouse-click near the start or end of the window.
+set scrolloff=5
+
+
+" Map q[ to go to the previous error
+map [q :action GotoPreviousError<CR>
+
+" Map q] to go to the next error
+map ]q :action GotoNextError<CR>
+" Do incremental searching.
+set incsearch
+
+" Don't use Ex mode, use Q for formatting.
+map Q gq
+
+
+" --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
+
+" Highlight copied text
+Plug 'machakann/vim-highlightedyank'
+" Commentary plugin
+Plug 'tpope/vim-commentary'
+
+
+"" -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t
+"" Map \r to the Reformat Code action
+"map \r <Action>(ReformatCode)
+
+"" Map <leader>d to start debug
+"map <leader>d <Action>(Debug)
+
+"" Map \b to toggle the breakpoint on the current line
+"map \b <Action>(ToggleLineBreakpoint)
+
+" Options
+set autoindent
+set backspace=indent,eol,start
+set clipboard+=unnamedplus
+set cursorline
+set expandtab
+set hlsearch
+set idearefactormode=keep
+set ignorecase
+set inccommand=nosplit
+set incsearch
+set mouse=a
+set noerrorbells
+set noswapfile
+set nowrap
+set number
+set relativenumber
+set scrolloff=4
+set shiftwidth=2
+set showmode
+set signcolumn=yes
+set smartcase
+set smartindent
+set spelllang=en
+set splitbelow
+set splitright
+set tabstop=2
+set termguicolors
+set undodir=$HOME/.undodir
+set undofile
+set undolevels=100
+set visualbell
+
+" Plugins
+set NERDTree
+set ReplaceWithRegister
+set commentary
+set easymotion
+set ideajoin
+set surround
+
+" Keymaps
+let mapleader = " "
+let g:NERDTreeMapActivateNode = 'l'
+let g:NERDTreeMapJumpParent = 'h'
+
+inoremap jk <ESC>
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+nnoremap <M-o> o<ESC>
+nnoremap <leader>ee :NERDTreeToggle<CR>
+nnoremap <leader>ff :action GotoFile<CR>
+nnoremap <leader>fg :action FindInPath<CR>
+nnoremap <leader>fs :action GotoSymbol<CR>
+nnoremap <leader>j J
+nnoremap J <Nop>
+nnoremap <leader>nh :nohl<CR>
+nnoremap <leader>qq :qa<CR>
+nnoremap <leader>se <C-w>=
+nnoremap <leader>sh <C-w>s
+nnoremap <leader>sv <C-w>v
+nnoremap <leader>sx :close<CR>
+nnoremap <leader>w :w<CR>
+nnoremap K 6k
+nnoremap J 6j
+nnoremap gh K
+nnoremap <leader>la :action ShowIntentionActions<CR>
+nnoremap <leader>lh
