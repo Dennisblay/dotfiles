@@ -1,0 +1,112 @@
+{
+  "updates": {
+    "firefox": {
+      "type": "security",
+      "since": "2024.09.06",
+      "days": 15
+    },
+    "initramfs-tools": {
+      "type": "package",
+      "since": "2024.09.06",
+      "days": 15
+    },
+    "vim": {
+      "type": "security",
+      "since": "2024.09.06",
+      "days": 15
+    },
+    "thunderbird": {
+      "type": "security",
+      "since": "2024.09.06",
+      "days": 15
+    },
+    "lvm2": {
+      "type": "package",
+      "since": "2024.09.08",
+      "days": 13
+    },
+    "cryptsetup": {
+      "type": "package",
+      "since": "2024.09.08",
+      "days": 13
+    },
+    "docker-ce": {
+      "type": "package",
+      "since": "2024.09.10",
+      "days": 11
+    },
+    "webkit2gtk": {
+      "type": "security",
+      "since": "2024.09.10",
+      "days": 11
+    },
+    "tiff": {
+      "type": "security",
+      "since": "2024.09.10",
+      "days": 11
+    },
+    "linux": {
+      "type": "kernel",
+      "since": "2024.09.11",
+      "days": 10
+    },
+    "google-chrome-stable": {
+      "type": "package",
+      "since": "2024.09.11",
+      "days": 10
+    },
+    "ubuntu-drivers-common": {
+      "type": "package",
+      "since": "2024.09.11",
+      "days": 10
+    },
+    "linux-firmware": {
+      "type": "package",
+      "since": "2024.09.11",
+      "days": 10
+    },
+    "containerd.io": {
+      "type": "package",
+      "since": "2024.09.12",
+      "days": 9
+    },
+    "expat": {
+      "type": "security",
+      "since": "2024.09.12",
+      "days": 9
+    },
+    "fwupd": {
+      "type": "package",
+      "since": "2024.09.13",
+      "days": 8
+    },
+    "setuptools": {
+      "type": "security",
+      "since": "2024.09.13",
+      "days": 8
+    },
+    "dotnet8": {
+      "type": "package",
+      "since": "2024.09.15",
+      "days": 6
+    },
+    "qgis": {
+      "type": "package",
+      "since": "2024.09.15",
+      "days": 6
+    },
+    "python3.12": {
+      "type": "security",
+      "since": "2024.09.17",
+      "days": 4
+    },
+    "curl": {
+      "type": "security",
+      "since": "2024.09.17",
+      "days": 4
+    }
+  },
+  "version": 1,
+  "checked": "2024.09.20",
+  "notified": "2024.09.04"
+}
