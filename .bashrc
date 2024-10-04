@@ -136,4 +136,9 @@ ob (){
 
   
 export PATH=$PATH:/home/dennis/.dotnet
+export PATH=$PATH:/home/dennis/.local/bin 
+export PATH=$PATH:/usr/local/bin/platform-tools
+alias vim=nvim
+alias py=python3
+set -o vi
 
