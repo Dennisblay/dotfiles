@@ -134,11 +134,29 @@ ob (){
 	dotnet /home/dennis/workspace/tools/ob/OpenBullet2.Web.dll &
 }
 
+
+rider () {
+      /home/dennis/workspace/tools/rider/bin/rider &
+}
+
+webstorm () {
+      /home/dennis/workspace/tools/rider/bin/webstorm &
+}
+
+clion () {
+      /home/dennis/workspace/tools/clion/bin/clion &
+}
+
   
 export PATH=$PATH:/home/dennis/.dotnet
 export PATH=$PATH:/home/dennis/.local/bin 
 export PATH=$PATH:/usr/local/bin/platform-tools
-alias vim=nvim
+alias vim="nvim ."
 alias py=python3
+alias c=clear
+alias cls=clear
+export ds=~/workspace/projects/python/dsa/ds
+export algor=~/workspace/projects/python/dsa/algor
 set -o vi
+
 

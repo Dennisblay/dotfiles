@@ -98,6 +98,12 @@ map('n', '<leader>la', ':lua vim.lsp.buf.code_action()<CR>', opts)
 -- Add this inside your Packer setup function or your init.lua
 vim.api.nvim_set_keymap('n', '<leader>db', ':Dashboard<CR>', { noremap = true, silent = true })
 
+-- Mapping for next tab
+map('n', 'gt', ':tabnext<CR>', { noremap = true, silent = true })
+
+-- Mapping for previous tab
+map('n', 'gT', ':tabprevious<CR>', { noremap = true, silent = true })
+
 -- Highlight text after yank (if using vim-highlightedyank)
 -- vim.cmd [[
 --  Plug 'machakann/vim-highlightedyank'
