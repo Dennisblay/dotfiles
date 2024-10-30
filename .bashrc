@@ -150,6 +150,7 @@ clion () {
   
 export PATH=$PATH:/home/dennis/.dotnet
 export PATH=$PATH:/home/dennis/.local/bin 
+export PATH="$PATH:/opt/nvim-linux64/bin"
 export PATH=$PATH:/usr/local/bin/platform-tools
 alias vim="nvim ."
 alias py=python3
@@ -158,5 +159,8 @@ alias cls=clear
 export ds=~/workspace/projects/python/dsa/ds
 export algor=~/workspace/projects/python/dsa/algor
 set -o vi
+
+
+
 
 
